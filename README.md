@@ -1,4 +1,7 @@
 # Protein_subcellular_localization
+# Update
+## Rest of the work will be made public by 28 NOV 
+
 ## Aim
 Project aims to find subcellular location of protein molecules
 ## Dataset description
